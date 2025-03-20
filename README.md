@@ -6,11 +6,15 @@
 💡 Tecnologias que utilizo:
 
 📱 Mobile: Flutter, Dart, React Native
+
 💻 Front-end: React, HTML, CSS
+
 🔧 Outras linguagens: C++, Java
+
 🌙 Atuação: Faço parte da Moonlight - Mobile Solutions
 
 📫 Contato:
 
 ✉️ E-mail: dayragramiscelli@gmail.com
+
 💼 LinkedIn: Dayra Gramiscelli
