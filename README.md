@@ -1,16 +1,16 @@
-### Hi there 👋
+## 👋 Olá, eu sou a Dayra Gramiscelli!
+🎓 Estudante de Análise e Desenvolvimento de Sistemas e em transição de carreira da área da Educação Física para a Tecnologia. Apaixonada por desenvolvimento de software, estou sempre explorando novas tecnologias e aprimorando minhas habilidades.
 
-<!--
-**DayraGramiscelli/DayraGramiscelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Áreas de atuação: Desenvolvimento Mobile | Front-end | Full Stack
 
-Here are some ideas to get you started:
+💡 Tecnologias que utilizo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Mobile: Flutter, Dart, React Native
+💻 Front-end: React, HTML, CSS
+🔧 Outras linguagens: C++, Java
+🌙 Atuação: Faço parte da Moonlight - Mobile Solutions
+
+📫 Contato:
+
+✉️ E-mail: dayragramiscelli@gmail.com
+💼 LinkedIn: Dayra Gramiscelli
