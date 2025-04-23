@@ -11,7 +11,7 @@
 
 🔧 Outras linguagens: C++, Java
 
-🌙 Atuação: Faço parte da Moonlight - Mobile Solutions
+🌙 Atuação: Faço parte da Saga Tecnologia e Moonlight - Mobile Solutions
 
 📫 Contato:
 
